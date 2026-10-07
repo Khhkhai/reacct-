@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Task 2</title>
+</head>
+<body>
+    <section id="upper-section">
+        <h1>Compare flight deals from 100s of sites<span class="orange">.</span></h1>
+        <div class="icons-container">
+            <div class="icon">
+                <svg id="flight-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="presentation">
+                    <path d="M178.081 41.973c-2.681 2.663-16.065 17.416-28.956 30.221c0 107.916 3.558 99.815-14.555 117.807l-14.358-60.402l-14.67-14.572c-38.873 38.606-33.015 8.711-33.015 45.669c.037 8.071-3.373 13.38-8.263 18.237L50.66 148.39l-30.751-13.513c10.094-10.017 15.609-8.207 39.488-8.207c8.127-16.666 18.173-23.81 26.033-31.62L70.79 80.509L10 66.269c17.153-17.039 6.638-13.895 118.396-13.895c12.96-12.873 26.882-27.703 29.574-30.377c7.745-7.692 28.017-14.357 31.205-11.191c3.187 3.166-3.349 23.474-11.094 31.167zm-13.674 42.469l-8.099 8.027v23.58c17.508-17.55 21.963-17.767 8.099-31.607zm-48.125-47.923c-13.678-13.652-12.642-10.828-32.152 8.57h23.625l8.527-8.57z"/>
+                </svg>
+                <p>Flights</p>
+            </div>
+            <div class="icon">
+                <svg id="stays-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="presentation">
+                    <path d="M166.666 44.998v40.438h-6.078c-2.927-7.642-10.155-13.048-18.607-13.048H123.68c-8.452 0-15.68 5.406-18.607 13.048H94.927C92 77.794 84.772 72.388 76.32 72.388H58.019c-8.452 0-15.68 5.406-18.607 13.048H33.33V44.998h133.336zM180 113.749c0-10.387-7.445-18.982-17.131-20.414H37.131C27.44 94.767 20 103.362 20 113.749v41.253h13.33v-20.627h133.336v20.627H180v-41.253z"/>
+                </svg>
+                <p>Stays</p>
+            </div>
+            <div class="icon">
+                <svg id="cars-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="presentation">
+                    <path d="M22.613 84.516C15.647 84.516 10 78.883 10 71.935h12.613c6.966 0 12.613 5.632 12.613 12.581H22.613zm154.774-12.581c-6.966 0-12.613 5.632-12.613 12.581h12.613c6.966 0 12.613-5.633 12.613-12.581h-12.613zm-14.97 13.387c17.991 23.752 15.201 5.722 15.201 74.678h-25.226v-15.484H46.638V160H22.382c0-61.366-3.522-57.158 15.26-75.027C52.259 31.161 56.599 40 127.818 40c25.287 0 29.864 27.733 34.599 45.322zM51.402 84.63h97.104c-10.46-38.739-5.871-32.049-76.037-32.049c-14.277 0-17.559 19.369-21.067 32.049zm9.619 26.983c0-6.948-5.647-12.581-12.613-12.581H35.796c0 6.948 5.647 12.581 12.613 12.581h12.612zm60.705 11.613H78.169a4.374 4.374 0 0 0-4.132 5.791c1.318 4.014 1.759 2.919 47.794 2.919c5.718-.001 5.891-8.71-.105-8.71zm42.479-24.194h-12.574c-6.944 0-12.613 5.655-12.613 12.581h12.574c6.944 0 12.613-5.654 12.613-12.581z"/>
+                </svg>
+                <p>Cars</p>
+            </div>
+            <div class="icon">
+                <svg id="deals-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="presentation">
+                    <path d="M157.952 96.997c6.587-23.706 7.897-44.46 4.27-58.735c21.469 15.807 32.083 43.166 26.147 69.806l-30.417-11.071zm-33.65-71.949C98.32 24.07 73.444 38.069 61.141 61.761l29.201 10.628c10.043-22.067 22.168-38.629 33.96-47.341zM167.5 152.5h-64.222l24.267-66.571l22.224 8.089c7.814-28.622 6.856-50.857 1.101-61.029c-3.617-3.015-3.281-3.53-11.699-5.766c-11.068 2.509-27.356 19.292-40.644 48.145l17.85 6.497l-25.75 70.635H32.5C20.074 152.5 10 162.574 10 175h180c0-12.426-10.074-22.5-22.5-22.5z"/>
+                </svg>
+                <p>Flight+Hotel</p>
+            </div>
+        </div>
+        
+        <div class="return">
+            Return
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="1.25em" height="1.25em" role="presentation">
+                <path id="down-arrow" d="M100 132.5c-3.873 0 .136 2.376-64.801-51.738l9.603-11.523L100 115.237l55.199-45.999l9.603 11.523C99.806 134.924 103.855 132.5 100 132.5z"/>
+            </svg>
+        </div>
+        <div class="search-container">
+            <input type="text" >
+            <div class="search-contents">
+                <div id="from-box">
+                    Sydney (SYD)
+                    <svg id="cross-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="15" height="15" role="presentation">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M180 37.918L162.082 20L100 82.208L37.918 20L20 37.918L82.208 100L20 162.082L37.918 180L100 117.792L162.082 180L180 162.082L117.792 100z"/>
+                    </svg>
+                </div>
+                <span id="to-box">
+                    <svg id="swap-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="30" height="30" role="presentation">
+                        <path d="M56.238 154.801c-25.271-30.326-30.335-33.201-25-39.603l25-30l11.523 9.603L53.013 112.5H120v15H53.013l14.749 17.699l-11.524 9.602zm86.524-40l-11.523-9.603L145.987 87.5H80v-15h65.987l-14.749-17.699l11.523-9.603l25 30c5.335 6.403.272 9.278-24.999 39.603z"/>
+                    </svg>
+                    <span class="gray">To?</span>
+                </span>
+
+                <span class="gray lighter">|</span>
+                <span class="date-box gray"> 
+                    Departure 
+                    <span id="dash-black"> - </span> 
+                    Return 
+                </span>
+                <span class="gray lighter">|</span>
+                <span class="passengers-box"> 1 adult, Economy</span>
+                <svg id="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="70" height="70" role="presentation">
+                    <path d="M174.973 150.594l-29.406-29.406c5.794-9.945 9.171-21.482 9.171-33.819C154.737 50.164 124.573 20 87.368 20S20 50.164 20 87.368s30.164 67.368 67.368 67.368c12.345 0 23.874-3.377 33.827-9.171l29.406 29.406c6.703 6.703 17.667 6.703 24.371 0c6.704-6.702 6.704-17.674.001-24.377zM36.842 87.36c0-27.857 22.669-50.526 50.526-50.526s50.526 22.669 50.526 50.526s-22.669 50.526-50.526 50.526s-50.526-22.669-50.526-50.526z"/>
+                </svg>
+            </div>
+        </div>
+    </section>
+
+    <section id="lower-section">
+        <div class="header-lower-section">
+            <h2>Travel deals under $183</h2>
+            <spam id="explore">
+                Explore more
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="1.25em" height="1.25em" role="presentation">
+                    <path d="M80.762 164.801l-11.523-9.603L115.237 100L69.238 44.801l11.523-9.603c53.425 64.11 55.449 63.064 50 69.603l-49.999 60z"/>
+                </svg>
+            </spam>
+        </div>
+
+        <div class="deal-container">
+            <div class="card">
+                <div class="img-box">
+                    <img src="assets/melbourne.jpg" alt="Melbourne">
+                </div>
+                <div class="info-text">
+                    <p class="bold-text">Melbourne</p>
+                    <p>1h 35m, direct</p>
+                    <div class="date">
+                        Sat 14/2 
+                        <svg class="right-triangle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="25px" height="25px" class="triangle-arrow" role="presentation">
+                            <path d="M77 50v100l46.1-50z"/>
+                        </svg>
+                        Tue 17/2
+                    </div>
+                    <p class="bold-text">from $130</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img-box">
+                    <img src="assets/coolangatta.jpg" alt="Coolangatta">
+                </div>
+                <div class="info-text">
+                    <p class="bold-text">Coolangatta</p>
+                    <p>1h 35m, direct</p>
+                    <div class="date">
+                        Sat 7/2 
+                        <svg class="right-triangle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="25px" height="25px" class="triangle-arrow" role="presentation">
+                            <path d="M77 50v100l46.1-50z"/>
+                        </svg>
+                        Wed 11/2
+                    </div>
+                    <p class="bold-text">from $138</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img-box">
+                    <img src="assets/maroochydore.jpg" alt="Maroochydore">
+                </div>
+                <div class="info-text">
+                    <p class="bold-text">Maroochydore</p>
+                    <p>1h 40m, direct</p>
+                    <div class="date">
+                        Sat 21/2 
+                        <svg class="right-triangle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="25px" height="25px" class="triangle-arrow" role="presentation">
+                            <path d="M77 50v100l46.1-50z"/>
+                        </svg>
+                        Sat 28/2
+                    </div>
+                    <p class="bold-text">from $138</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="img-box">
+                    <img src="assets/launceston.jpg" alt="Launceston">
+                </div>
+                <div class="info-text"> 
+                    <p class="bold-text">Launceston</p>
+                    <p>1h 45m, direct</p>
+                    <div class="date">
+                        <div> </div>Sat 7/2 
+                        <svg class="right-triangle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="25px" height="25px" class="triangle-arrow" role="presentation">
+                            <path d="M77 50v100l46.1-50z"/>
+                        </svg>
+                        Wed 11/2
+                    </div>
+                    <p class="bold-text">from $153</p>
+                </div>
+            </div>
+        </div>
+        <div class="arrow-container">
+            <svg class="arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="60" height="60" role="presentation">
+                <path d="M93.262 137.301l-11.523-9.603l20.999-25.199l-21-25.198l11.523-9.603c25.271 30.326 30.335 33.201 25 39.603l-24.999 30z"/>
+            </svg>
+            <svg class="arrow gray" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="60" height="60" role="presentation">
+                <path d="M104.238 134.801c-25.271-30.326-30.335-33.201-25-39.603l25-30l11.523 9.603L94.763 100l20.999 25.199l-11.524 9.602z"/>
+            </svg>
+        </div>
+    </section>
+</body>
+</html>

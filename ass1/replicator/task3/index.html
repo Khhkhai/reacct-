@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet"/>
+    <title>Task 3</title>
+</head>
+<body>
+    <div class="navbar gray">
+        <div class="left">
+            <span>Product</span>
+            <span>Pricing</span>
+            <span>Contact</span>
+        </div>
+        <div class="right">
+            <div>Log in</div>
+            <button id="sign-up-button">Sign up</button>
+            <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 16 16" fill="currentColor">
+                <rect x="1" y="7.5" width="14" height="1" rx="0.5" style="transform-origin: center center; transition: 160ms var(--ease-out-quad); transform: translateY(-3.5px);"/>
+                <rect x="1" y="7.5" width="14" height="1" rx="0.5" style="transform-origin: center center; transition: 160ms var(--ease-out-quad); transform: translateY(3.5px);"/>
+            </svg>
+        </div>
+    </div>
+
+    <section class="header">
+        <h1>Pricing</h1>
+        <p class="gray">Upgrade to enable unlimited issues, enhanced security controls, and additional features.</p>
+    </section>
+
+    <div class="price-containter">
+        <div class="price-card" id="first">
+            <div class="Title">
+                <h2>Free</h2>
+                <p>$0</p>
+            </div>
+            <div class="billing">
+                <p class="gray">Free for everyone</p>
+            </div>
+            <div class="feautres">
+                <ul>
+                    <li>Unlimited members</li>
+                    <li>2 teams</li>
+                    <li class="dotted-line">250 issues</li>
+                    <li><u>Slack</u> and <u>GitHub</u></li>
+                    <li><u>AI agents</u></li>
+                </ul>
+                <button>Get started</button>
+            </div>
+        </div>
+
+        <div class="price-card">
+            <div class="Title">
+                <h2>Basic</h2>
+                <p>US$10 <span class="gray">per user/month</span></p>
+            </div>
+            <div class="billing">
+                <div class="toggle-switch">
+                    <div class="white-circle"></div>
+                </div>
+                <span class="gray">Billed yearly</span>
+            </div>
+            <div class="feautres">
+                <ul>
+                    <li>All Basic feautres +</li>
+                    <li>5 teams</li>
+                    <li>Unlimited issues</li>
+                    <li>Unlimited file uploads</li>
+                    <li>Admin roles</li>
+                </ul>
+                <button>Get started</button>
+            </div>
+        </div>
+
+        <div id="business-card" class="price-card">
+            <div class="Title">
+                <h2>Business</h2>
+                <p>US$16 <span class="gray">per user/month</span></p>
+            </div>
+            <div class="billing">
+                <div class="toggle-switch">
+                    <div class="white-circle"></div>
+                </div>
+                <span class="gray">Billed yearly</span>
+            </div>
+            <div class="feautres">
+                <ul>
+                    <li>All Basic feautres +</li>
+                    <li>Unlimited teams</li>
+                    <li>Private teams and guests</li>
+                    <li><u>Triage Intelligence</u></li>
+                    <li><u>Advanced Asks</u></li>
+                    <li>Issue <span class="dotted-line">SLAs</span></li>
+                    <li><u>Zendesk</u> and <u>Intercom</u> integrations</li>
+                </ul>
+                <button>Get started</button>
+                <div id="contact">or <u>contact sales</u></div>
+            </div>
+        </div>
+
+        <div class="price-card" id="last">
+            <div class="Title">
+                <h2>Enterprise</h2>
+                <p class="gray"> Contact us</p>
+            </div>
+            <div class="billing">
+                <p class="gray">Annual billing only</p>
+            </div>
+            <div class="feautres">
+                <ul>
+                    <li>All Basic feautres +</li>
+                    <li>sub-initiatives</li>
+                    <li>Advanced <u>Asks</u></li>
+                    <li>Dashboards</li>
+                    <li>
+                        <span class="dotted-line">SAML</span> 
+                        and 
+                        <span class="dotted-line">SCIM</span>
+                    </li>
+                    <li class="dotted-line"> Advanced security</li>
+                    <li>Migration and onboarding support</li>
+                </ul>
+                <button>Request trial</button>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

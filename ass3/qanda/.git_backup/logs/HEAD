@@ -1,0 +1,42 @@
+0000000000000000000000000000000000000000 9a93d6097dd7ca3fc518305797648086d027588f Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773054111 +1100	clone: from gitlab.cse.unsw.edu.au:coursework/COMP6080/26T1/students/z5637964/qanda.git
+9a93d6097dd7ca3fc518305797648086d027588f 95e55b58d7ecf9767839551fe044386f898fef14 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773900177 +1100	commit: Completed Login & Registation Pages
+95e55b58d7ecf9767839551fe044386f898fef14 7b7770be67926cbba9f6e9b88d44556169a9ba18 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773900379 +1100	pull: Merge made by the 'ort' strategy.
+7b7770be67926cbba9f6e9b88d44556169a9ba18 93e27775c1361254e8f8859830f9ed85c105dbaa Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773900495 +1100	commit: Completed dashboard page
+93e27775c1361254e8f8859830f9ed85c105dbaa f900476c8d8cce8d80d4bf07ce39751646c6bae4 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773900713 +1100	commit: Implemented API call, Login, Register Functions and error message
+f900476c8d8cce8d80d4bf07ce39751646c6bae4 b41e00482e394e0ab68ede0e12fe350a6263e3d8 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773901090 +1100	commit: Implementing thread screen
+b41e00482e394e0ab68ede0e12fe350a6263e3d8 3f86a3901ac38100e2404802e25c67b7374e76f6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773901449 +1100	commit: Finished Milestone 2
+3f86a3901ac38100e2404802e25c67b7374e76f6 3d5ff48d71f030a821835743cdbd2ad1d4a09256 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773901633 +1100	commit: Implemented Edit and Delete thread functions
+3d5ff48d71f030a821835743cdbd2ad1d4a09256 7d15bb91930298ee5a9b2258e20e5987296a2173 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773975018 +1100	commit: Clean up html
+7d15bb91930298ee5a9b2258e20e5987296a2173 4a98b84ade1d5a71bf64adc8470d51da4a24c7af Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1773975115 +1100	commit: Implemented Like thread
+4a98b84ade1d5a71bf64adc8470d51da4a24c7af 5390ea93eb68bcd4342a1556ca9b9b87a713f9be Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774091828 +1100	commit: Rearrange and add css instead of bootstraps styling
+5390ea93eb68bcd4342a1556ca9b9b87a713f9be 6d137f9cc1b072765aa55d5bd7420e61111a45aa Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774091873 +1100	commit: Added comments section
+6d137f9cc1b072765aa55d5bd7420e61111a45aa f8bef9f21a60fc2a4c2051f99cac64c6ee620ae8 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774093846 +1100	commit: moved thread, comment, user helpers from main
+f8bef9f21a60fc2a4c2051f99cac64c6ee620ae8 a2078eae87f88ca48264c730ca997a5f89414ee1 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774094002 +1100	commit: Moved user helper functions into userHelpers.js
+a2078eae87f88ca48264c730ca997a5f89414ee1 30ec8029eb394578d3528d2b691ebb834f259546 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774094028 +1100	commit: Moved thread helper functions into threadHelpers.js
+30ec8029eb394578d3528d2b691ebb834f259546 738f6894a8eed2bc8c4251fc40fdf5e99a419a96 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774094080 +1100	commit: Moved remaining thread helper functions
+738f6894a8eed2bc8c4251fc40fdf5e99a419a96 16b9934a937d189c4d357c7e90cebaae4e3f5805 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774094109 +1100	commit: Moved comment helper functions into commentHelpers.js
+16b9934a937d189c4d357c7e90cebaae4e3f5805 3536723b56a71f669aa6e9cff0b3b4f87c44f783 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774094152 +1100	commit: Moved remaining comment helper functions
+3536723b56a71f669aa6e9cff0b3b4f87c44f783 ea46d8176453ec7632d250da3b3f8994369f216b Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774758922 +1100	pull origin: Fast-forward
+ea46d8176453ec7632d250da3b3f8994369f216b d469fc0ebbe4ea24db0d5f436ee0718e4a4c6021 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774759147 +1100	commit: Implemented Handling Users functions
+d469fc0ebbe4ea24db0d5f436ee0718e4a4c6021 e258f5bcddaa4a501c553f625d8be35170db2dc7 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774759766 +1100	commit: update HTML tags for better layout
+e258f5bcddaa4a501c553f625d8be35170db2dc7 8db32232d39d92be493b254c224bc1bfa8ed6426 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774760441 +1100	commit: Added Profile ui and functions
+8db32232d39d92be493b254c224bc1bfa8ed6426 1b6ac0644a21379ef7944125467f53616b8a37e8 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774760751 +1100	commit: Completed Milestone 5
+1b6ac0644a21379ef7944125467f53616b8a37e8 f9c8267d7fcbe45ccfce1000597164aef1070917 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774760869 +1100	commit: CSS initial layout
+f9c8267d7fcbe45ccfce1000597164aef1070917 3e3dd799bc10bfbf3ec06fec5e0226b85ded82c0 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774760945 +1100	commit: Styled thread list container
+3e3dd799bc10bfbf3ec06fec5e0226b85ded82c0 b244d05b6bf3b800100e8e94bc6a72ace8f40e33 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774761065 +1100	commit: Styled thread individual page
+b244d05b6bf3b800100e8e94bc6a72ace8f40e33 8e21865e43226d4bc53f5a53cc8817813abbaf9c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774761394 +1100	commit: Styled Profile page
+8e21865e43226d4bc53f5a53cc8817813abbaf9c fc8bf67d76b9c22c0d1000a430bb156c8509b9e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774762092 +1100	commit: Improve modal style
+fc8bf67d76b9c22c0d1000a430bb156c8509b9e6 6420d2098acd25dc8797626ebb7ea480fead852f Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774762894 +1100	commit: Implement Infinit Scroll and Live Update
+6420d2098acd25dc8797626ebb7ea480fead852f 23af2b7023cdbd615a3f5aaead82e6cde59409a5 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774763240 +1100	commit: Implemented Push Notifications
+23af2b7023cdbd615a3f5aaead82e6cde59409a5 15f6ac68ac1fba8036a76bf264b329e1bac89a95 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774763341 +1100	commit: finish Push Notifications function
+15f6ac68ac1fba8036a76bf264b329e1bac89a95 9d2f5c12eb0b5cf6a35e9c4e447a88a24cbc09bf Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774763571 +1100	commit: Document and refactor commentHelpers
+9d2f5c12eb0b5cf6a35e9c4e447a88a24cbc09bf 7c45dc9d1ce0fcda107feba6b2fb6fc3879b2b33 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774763583 +1100	commit: Document and refactor commentHelpers 2
+7c45dc9d1ce0fcda107feba6b2fb6fc3879b2b33 960b5b52269b83c1513244cde6aaff18fd52a329 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774768899 +1100	commit: refactor helper functions to helpers.js and updated progress
+960b5b52269b83c1513244cde6aaff18fd52a329 48be239bd24c250a03c306dc3d0e18f1c27a996c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774769514 +1100	commit: Responsive mobile version
+48be239bd24c250a03c306dc3d0e18f1c27a996c 4e4747903d3580ab51f835bd328b007a6028e9dc Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774769866 +1100	commit: Refactor main.js and threadHelper.js
+4e4747903d3580ab51f835bd328b007a6028e9dc ef4bd1b966bb28b6fe07bf987034b8a139f159f1 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774769886 +1100	commit: Refactor threadHelper.js
+ef4bd1b966bb28b6fe07bf987034b8a139f159f1 49ffe2da81d9ea203c471827b221644bff54aedf Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774769973 +1100	commit: Moved polling functions to polling.js
+49ffe2da81d9ea203c471827b221644bff54aedf 24ac149059acd2416b20ad938cfc8be8a43f0cfa Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774772217 +1100	commit: Improved usability
+24ac149059acd2416b20ad938cfc8be8a43f0cfa 8395137c846cae20410585350a6b11687358bc30 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774783068 +1100	commit: Implemented Milestone 7
+8395137c846cae20410585350a6b11687358bc30 3821bbfe4c3334f470fb30ecd4fc62dbb5567f1c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774783096 +1100	commit: Finished the whole Milestone 7
+3821bbfe4c3334f470fb30ecd4fc62dbb5567f1c 6ed3e2761fb6c60c22063375089919d3a6a476ce Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1774927376 +1100	commit: Added links to register and login, and updated usability.md

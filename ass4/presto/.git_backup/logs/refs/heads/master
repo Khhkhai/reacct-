@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600778 +1000	branch: Created from refs/remotes/origin/master
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 fab5ec7d97dacee46f5fbc458797a6b35c0a8d66 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776602829 +1000	commit: Push backend for deloyment
+fab5ec7d97dacee46f5fbc458797a6b35c0a8d66 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776602978 +1000	reset: moving to HEAD~1
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 3250ef8df35e0ab36f85f120387d52c54b947900 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776603268 +1000	commit: fix backend
+3250ef8df35e0ab36f85f120387d52c54b947900 6c0b82f87d52fc860a51080fb77dda01ba5d237c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604129 +1000	commit: Fixed index.js for backend
+6c0b82f87d52fc860a51080fb77dda01ba5d237c 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604182 +1000	reset: moving to HEAD~2
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 6c0b82f87d52fc860a51080fb77dda01ba5d237c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604479 +1000	pull: Fast-forward
+6c0b82f87d52fc860a51080fb77dda01ba5d237c b8d6d39addc022f9d9be511ae97d02e890d2b8e0 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776606647 +1000	commit: Fixed the api
+b8d6d39addc022f9d9be511ae97d02e890d2b8e0 4c08985efbda0277f69aa70aa7346e49902ecd72 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776606812 +1000	commit: fix config email for redeploy
+4c08985efbda0277f69aa70aa7346e49902ecd72 95934e9334bed97fa5efbb4c2a3a65142a67a8d7 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776607807 +1000	commit: Updated .env
+95934e9334bed97fa5efbb4c2a3a65142a67a8d7 f2356034ce94b7a44b818eca1dfc1435ab8bdc01 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776609383 +1000	commit: fix the naming conflit
+f2356034ce94b7a44b818eca1dfc1435ab8bdc01 5dc9ad3dc2c3da4a18d595e079dd6be3709a3e18 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674019 +1000	commit: add name tage to elements for testing
+5dc9ad3dc2c3da4a18d595e079dd6be3709a3e18 dbe86b0680704b9ab7e1c5286a95a9b87c38edc2 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674144 +1000	commit: Implement given task test
+dbe86b0680704b9ab7e1c5286a95a9b87c38edc2 1da3ad6bc32ea70046337e00785fe04ee5ac7361 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674179 +1000	commit: Implement my tests
+1da3ad6bc32ea70046337e00785fe04ee5ac7361 0311ef314b8d62ce1231d0e6b3ea918d112fc742 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674219 +1000	commit: Update tests.md and progress
+0311ef314b8d62ce1231d0e6b3ea918d112fc742 dd0bfdd82f42d7163508f87950a1606e51fdf2f9 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776676800 +1000	commit: updated A11y.md uiux.md and tests
+dd0bfdd82f42d7163508f87950a1606e51fdf2f9 afd1e093ec8203d9bd4c77884f85458ef754fe7f Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677007 +1000	commit: Fixing backend for deploy
+afd1e093ec8203d9bd4c77884f85458ef754fe7f f681014de9e72bd304e433ee857d9bb608e911f3 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677429 +1000	commit: Fixed preview route
+f681014de9e72bd304e433ee857d9bb608e911f3 afd1e093ec8203d9bd4c77884f85458ef754fe7f Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677482 +1000	reset: moving to Head^1
+afd1e093ec8203d9bd4c77884f85458ef754fe7f dd0bfdd82f42d7163508f87950a1606e51fdf2f9 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677511 +1000	reset: moving to HEAD^1
+dd0bfdd82f42d7163508f87950a1606e51fdf2f9 9624bc597a67ae2e231c41493583ee7e9e49dec2 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677662 +1000	commit: Finial commit

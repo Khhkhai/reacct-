@@ -1,0 +1,41 @@
+body {
+  font-family: 'Circular', sans-serif;
+  color: #484848;
+  width: 900px;
+  font-size: 16px;
+}
+
+.login-butt {
+  background-color: #008489;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 16px 23px;
+  border: 2px solid #ffffff;
+}
+
+.signup-butt {
+  color: #008489;
+  border-radius: 4px;
+  padding: 15px 22px;
+  border: 2px solid #008489;
+}
+
+.help-container {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    margin-bottom: 25px;
+}
+
+hr {
+  border-top: 1px solid #dddddd;
+  margin: 50px 0;
+}

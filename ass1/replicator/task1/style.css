@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    width: 2135px;
+    height: 1880px;
+}
+
+.navbar {
+    display: flex;
+    margin: 15px 0;
+    justify-content: space-between;
+    align-items: center;
+    color: #6a6a6a
+}
+
+.navbar img {
+    width: 55px;
+    height: 55px;
+}
+
+.navbar .left {
+    display: flex;
+    gap: 70px;
+    padding: 0% 2%;
+    align-items: center;
+
+}
+.navbar .right {
+    display: flex;
+    gap: 90px;
+    padding: 0% 2%;
+    align-items: center;
+}
+
+#search-container {
+    border: 1px solid #f9f9f9;
+    border-radius: 50px;
+    margin: 0 5px;
+    background: #f9f9f9 url('assets/search.svg') no-repeat 30px center;
+    background-size: 45px;
+    padding-left: 100px; 
+    width: 480px;
+    height: 75px;
+    font-size: 1.8em;
+}
+
+.write-container {
+    display: flex;
+    align-items: center;
+    background: url('assets/write.svg') no-repeat 20px center;
+    background-size: 50px;
+    padding-left: 90px; 
+    width: 130px;
+    height: 70px;
+    font-size: 1.8em;
+}
+
+.line-break {
+    background-color: #efecec;
+    height: 1px;
+}
+
+.body-section {
+    width: 1360px;
+    margin: 3% auto;
+}
+
+.header-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-image p {
+    font-size: 1.75em;
+    margin-top: 28px;
+}
+
+h1 {
+    font-size: 5.15em;
+    margin-top: 0.89em;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 2.7em;
+    margin-top: 0.7em;
+    margin-bottom: 1.15em;
+    letter-spacing: 0.5px;
+}
+
+#tags {
+    display: flex;
+    align-items: center;
+    font-size: 1.75em;
+    gap: 18px;
+    margin-bottom: 6.8%;
+}
+
+.follow {
+    display: inline-block;
+    padding: 15px 23px;
+    border-radius: 35px;
+    margin: 0 10px;
+    border: 2px solid black;
+}
+
+#middledot {
+    margin: auto 5px auto 7px;
+}
+
+.text {
+    line-height: 1.6em;
+    font-size: 2.48em;
+    color: #545454;
+}
+
+.gray-text {
+    color: #737373;
+}
+
+#highlighted-text {
+    background-color: #ddeedf;
+}

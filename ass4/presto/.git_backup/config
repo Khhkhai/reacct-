@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	preCommitHook = --ignore-deps
+[remote "origin"]
+	url = git@gitlab.cse.unsw.edu.au:coursework/COMP6080/26T1/groups/COOKCUSTOMER/presto.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "deploy"]
+	url = git@github.com:Khhkhai/presto-deploy.git
+	fetch = +refs/heads/*:refs/remotes/deploy/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+	vscode-merge-base = origin/master

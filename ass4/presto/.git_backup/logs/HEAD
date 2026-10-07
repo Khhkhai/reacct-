@@ -1,0 +1,52 @@
+0000000000000000000000000000000000000000 4e355001d7ebfca558d5d4da1a1159e96c1e3afd Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1775032832 +1100	clone: from gitlab.cse.unsw.edu.au:coursework/COMP6080/26T1/groups/COOKCUSTOMER/presto.git
+4e355001d7ebfca558d5d4da1a1159e96c1e3afd 8064f31a7616f0b4dc45a228fbc5bb9723a6050d Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1775969412 +1000	commit: Feature Set 1 complete baisc route and feature
+8064f31a7616f0b4dc45a228fbc5bb9723a6050d afee9939ff003822f25d505d5fa4a8c56a6a4a47 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1775969480 +1000	commit: Completed Feature Set 1
+afee9939ff003822f25d505d5fa4a8c56a6a4a47 3f34366f503b0c25be23a306224bd20c43bd67e0 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776240765 +1000	commit: Solved linting & ts errors
+3f34366f503b0c25be23a306224bd20c43bd67e0 3fdbfe5284be68c56333ec4c84a2596e95f80ecb Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776254165 +1000	commit: Implement dashboard
+3fdbfe5284be68c56333ec4c84a2596e95f80ecb 283e2df60fec21956c916a02e2a099390e2b2d14 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776255411 +1000	commit: Implemented Components for dashboard display and input field
+283e2df60fec21956c916a02e2a099390e2b2d14 06be06bdad5bbe27a4f1b43d7a45e8a540c47665 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776345373 +1000	commit: Implemented Input Fields components
+06be06bdad5bbe27a4f1b43d7a45e8a540c47665 0b828b5b82c36820bea6605813dd01f7d4bddd30 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776362817 +1000	commit: Implemented Presentation Page
+0b828b5b82c36820bea6605813dd01f7d4bddd30 89df7f5b828f9643ef8c3a8e3181a3f01302b99a Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776363135 +1000	commit: Implemented Code, Image and video Elements Components
+89df7f5b828f9643ef8c3a8e3181a3f01302b99a cc28ea6d5bfa659877f001748e1a7832d8443944 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776363574 +1000	commit: Implemented Slide components and display elements on slide
+cc28ea6d5bfa659877f001748e1a7832d8443944 735fa2409e468b47c5cb1293599263c834094145 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776364154 +1000	commit: Implemented helpers functions for operations slides, presentations and elements
+735fa2409e468b47c5cb1293599263c834094145 e5d318e63a54cd5accc8b841cd9bad45609d9a0c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776364298 +1000	commit: Completed helpers functions for elements operations
+e5d318e63a54cd5accc8b841cd9bad45609d9a0c 6fc4f4c1bee8b08cc8c417db4d3ab656aec29e34 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776519547 +1000	commit: Removed react Konva and added react-rnd
+6fc4f4c1bee8b08cc8c417db4d3ab656aec29e34 a2fb8a9a05cf61edf04d1dd904433681f67e6a01 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776522740 +1000	commit: Implemented Input Fields for toolbar
+a2fb8a9a05cf61edf04d1dd904433681f67e6a01 15c8d37dacd5998a541902baa5c81f462481a3f5 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776523539 +1000	commit: Finished partially Feature Set 4 and restructure the codes
+15c8d37dacd5998a541902baa5c81f462481a3f5 d6ddbffbf618843721398cb1dda05ea1470f24c1 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776523705 +1000	commit: Implemented api calls for store and 2.4.3.
+d6ddbffbf618843721398cb1dda05ea1470f24c1 e113a24628939deff2c85c6e24d437897184df3e Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776581241 +1000	commit: Implemented the toolbar functions
+e113a24628939deff2c85c6e24d437897184df3e a764aadee46be8a24183562f4bae6b0d1ff3982f Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776581398 +1000	commit: Finished up the ui and clean up the code
+a764aadee46be8a24183562f4bae6b0d1ff3982f 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776581433 +1000	commit: Added Preview viewing function and page
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 0668ec1cf8ae9e98e01e34503fcf9551f346945a Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776599510 +1000	commit: first commit
+0668ec1cf8ae9e98e01e34503fcf9551f346945a 0000000000000000000000000000000000000000 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776599510 +1000	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 0668ec1cf8ae9e98e01e34503fcf9551f346945a Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776599510 +1000	Branch: renamed refs/heads/master to refs/heads/main
+0668ec1cf8ae9e98e01e34503fcf9551f346945a 638abfec528ea207436f9e4d4102594fb773d063 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600526 +1000	commit: Finished Preview function
+638abfec528ea207436f9e4d4102594fb773d063 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600778 +1000	checkout: moving from main to master
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 638abfec528ea207436f9e4d4102594fb773d063 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600809 +1000	checkout: moving from master to main
+638abfec528ea207436f9e4d4102594fb773d063 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600818 +1000	checkout: moving from main to master
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 638abfec528ea207436f9e4d4102594fb773d063 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776600827 +1000	checkout: moving from master to main
+638abfec528ea207436f9e4d4102594fb773d063 638abfec528ea207436f9e4d4102594fb773d063 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776601451 +1000	rebase (start): checkout HEAD~1
+638abfec528ea207436f9e4d4102594fb773d063 638abfec528ea207436f9e4d4102594fb773d063 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776601451 +1000	rebase (finish): returning to refs/heads/main
+638abfec528ea207436f9e4d4102594fb773d063 0668ec1cf8ae9e98e01e34503fcf9551f346945a Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776601495 +1000	reset: moving to HEAD~1
+0668ec1cf8ae9e98e01e34503fcf9551f346945a 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776602245 +1000	checkout: moving from main to master
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 fab5ec7d97dacee46f5fbc458797a6b35c0a8d66 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776602829 +1000	commit: Push backend for deloyment
+fab5ec7d97dacee46f5fbc458797a6b35c0a8d66 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776602978 +1000	reset: moving to HEAD~1
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 3250ef8df35e0ab36f85f120387d52c54b947900 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776603268 +1000	commit: fix backend
+3250ef8df35e0ab36f85f120387d52c54b947900 6c0b82f87d52fc860a51080fb77dda01ba5d237c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604129 +1000	commit: Fixed index.js for backend
+6c0b82f87d52fc860a51080fb77dda01ba5d237c 4dcf017f6edcd65ff66187013cfc0e73e22720e6 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604182 +1000	reset: moving to HEAD~2
+4dcf017f6edcd65ff66187013cfc0e73e22720e6 6c0b82f87d52fc860a51080fb77dda01ba5d237c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776604479 +1000	pull: Fast-forward
+6c0b82f87d52fc860a51080fb77dda01ba5d237c b8d6d39addc022f9d9be511ae97d02e890d2b8e0 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1776606647 +1000	commit: Fixed the api
+b8d6d39addc022f9d9be511ae97d02e890d2b8e0 4c08985efbda0277f69aa70aa7346e49902ecd72 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776606812 +1000	commit: fix config email for redeploy
+4c08985efbda0277f69aa70aa7346e49902ecd72 95934e9334bed97fa5efbb4c2a3a65142a67a8d7 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776607807 +1000	commit: Updated .env
+95934e9334bed97fa5efbb4c2a3a65142a67a8d7 f2356034ce94b7a44b818eca1dfc1435ab8bdc01 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776609383 +1000	commit: fix the naming conflit
+f2356034ce94b7a44b818eca1dfc1435ab8bdc01 5dc9ad3dc2c3da4a18d595e079dd6be3709a3e18 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674019 +1000	commit: add name tage to elements for testing
+5dc9ad3dc2c3da4a18d595e079dd6be3709a3e18 dbe86b0680704b9ab7e1c5286a95a9b87c38edc2 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674144 +1000	commit: Implement given task test
+dbe86b0680704b9ab7e1c5286a95a9b87c38edc2 1da3ad6bc32ea70046337e00785fe04ee5ac7361 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674179 +1000	commit: Implement my tests
+1da3ad6bc32ea70046337e00785fe04ee5ac7361 0311ef314b8d62ce1231d0e6b3ea918d112fc742 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776674219 +1000	commit: Update tests.md and progress
+0311ef314b8d62ce1231d0e6b3ea918d112fc742 dd0bfdd82f42d7163508f87950a1606e51fdf2f9 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776676800 +1000	commit: updated A11y.md uiux.md and tests
+dd0bfdd82f42d7163508f87950a1606e51fdf2f9 afd1e093ec8203d9bd4c77884f85458ef754fe7f Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677007 +1000	commit: Fixing backend for deploy
+afd1e093ec8203d9bd4c77884f85458ef754fe7f f681014de9e72bd304e433ee857d9bb608e911f3 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677429 +1000	commit: Fixed preview route
+f681014de9e72bd304e433ee857d9bb608e911f3 afd1e093ec8203d9bd4c77884f85458ef754fe7f Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677482 +1000	reset: moving to Head^1
+afd1e093ec8203d9bd4c77884f85458ef754fe7f dd0bfdd82f42d7163508f87950a1606e51fdf2f9 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677511 +1000	reset: moving to HEAD^1
+dd0bfdd82f42d7163508f87950a1606e51fdf2f9 9624bc597a67ae2e231c41493583ee7e9e49dec2 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1776677662 +1000	commit: Finial commit
+9624bc597a67ae2e231c41493583ee7e9e49dec2 9624bc597a67ae2e231c41493583ee7e9e49dec2 Khin Htet Htet Khaing <khinhtethtetkhaing87@gmail.com> 1779321952 +1000	checkout: moving from master to master

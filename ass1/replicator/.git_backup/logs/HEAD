@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 0601283fc7675a1acc3e5db8462f98bbe96083ce Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771581698 +1100	clone: from gitlab.cse.unsw.edu.au:coursework/COMP6080/26T1/students/z5637964/replicator.git
+0601283fc7675a1acc3e5db8462f98bbe96083ce 0601283fc7675a1acc3e5db8462f98bbe96083ce Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771585529 +1100	reset: moving to HEAD
+0601283fc7675a1acc3e5db8462f98bbe96083ce d25204650a36f266ff8ef0cc4659d045f7247148 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771585599 +1100	commit: Complete base html page - Task 1
+d25204650a36f266ff8ef0cc4659d045f7247148 a9851a767f91dc88dd1600321ef791af21de99ee Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771647579 +1100	commit: Accurately styled navbar
+a9851a767f91dc88dd1600321ef791af21de99ee 1cdf36bda789128b7e9dd9d51190fa5f65b4242f Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771664830 +1100	commit: Finished css body section
+1cdf36bda789128b7e9dd9d51190fa5f65b4242f 176388cdefacb47e355407b2b07273b3122a0574 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771746689 +1100	commit: Complete base html page - Task 2
+176388cdefacb47e355407b2b07273b3122a0574 a9b9633e84ebcefb1bc63b2d20db92225a1a31b4 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771810787 +1100	commit: Completed style of header and icons
+a9b9633e84ebcefb1bc63b2d20db92225a1a31b4 a9b9633e84ebcefb1bc63b2d20db92225a1a31b4 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771828830 +1100	reset: moving to HEAD
+a9b9633e84ebcefb1bc63b2d20db92225a1a31b4 58f0f4f4826c8aff1e85abe6913d8a2627617832 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771828930 +1100	commit: Changed img tags to svg tags
+58f0f4f4826c8aff1e85abe6913d8a2627617832 c727b341008bde6606a7673bcddf267d77327361 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771828965 +1100	commit: Finished upper section style
+c727b341008bde6606a7673bcddf267d77327361 c00c35c78860ea8378647afc6063e5be886da366 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771991391 +1100	commit: Completed the task2 style
+c00c35c78860ea8378647afc6063e5be886da366 c00c35c78860ea8378647afc6063e5be886da366 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771991462 +1100	reset: moving to HEAD
+c00c35c78860ea8378647afc6063e5be886da366 919ce99e17ec82ea0d24db2812e0c29a54baff19 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771991557 +1100	pull: Merge made by the 'ort' strategy.
+919ce99e17ec82ea0d24db2812e0c29a54baff19 2ed61c1dbd4f43a3a16f2411a18d73dd248df322 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1771991784 +1100	commit: Group div for css style
+2ed61c1dbd4f43a3a16f2411a18d73dd248df322 42313add1e60d67902dfee44add0310a210c1906 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772009454 +1100	commit: Created basic html page - Task 3
+42313add1e60d67902dfee44add0310a210c1906 100354702d545ee04439d829f639688a1eb1d8a0 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772016056 +1100	commit: Completed HTML and header style
+100354702d545ee04439d829f639688a1eb1d8a0 2871412ab98c38362842906b19f3abba62075ee1 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772017274 +1100	commit: Finished small page style
+2871412ab98c38362842906b19f3abba62075ee1 13cebace9a94ae36aeb5bda9975fda1da401a9ae Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772066531 +1100	commit: Finished big page header style
+13cebace9a94ae36aeb5bda9975fda1da401a9ae 91c46dd14d72382a1e25e79c12572638d6c24a14 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772066554 +1100	commit: Finished big page full style
+91c46dd14d72382a1e25e79c12572638d6c24a14 093d263ac2bbcccb6fabd40290af92375b6986c2 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772066671 +1100	commit: Improved transition between small page and big page
+093d263ac2bbcccb6fabd40290af92375b6986c2 e68564324b77e12bdda41438bcc10c0970a692de Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772095144 +1100	commit: Added more detial styling in task1
+e68564324b77e12bdda41438bcc10c0970a692de a05bd2f187bf8493ab4f36647209846bf744349c Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772098716 +1100	commit: Added more detials styling in task2
+a05bd2f187bf8493ab4f36647209846bf744349c 61a818ca89aadcccf1d2e56992593627e289dfb3 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772318098 +1100	commit: Added more detial styling in task3
+61a818ca89aadcccf1d2e56992593627e289dfb3 0d67d0b1b0903445e3bc77620be850f20026bc6e Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772318111 +1100	pull: Merge made by the 'ort' strategy.
+0d67d0b1b0903445e3bc77620be850f20026bc6e 4140e6cae50cb637a91cca1fe59e3d283b5e3755 Khin Htet Htet Khaing <z5637964@student.unsw.edu.au> 1772345155 +1100	commit: Imporoved on class/id name and overall structure

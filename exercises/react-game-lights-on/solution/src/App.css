@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.cell {
+  width: 60px;
+  height: 60px;
+  background-color: #f09e2c;
+  border: 1px solid #000;
+}
+
+.off {
+  background-color: #fff;
+}

@@ -1,0 +1,5 @@
+- Forms prevent empty or whitespace-only input by checking values before submission. Submit buttons are also disabled until valid input is entered, helping users avoid mistakes.
+- email validation provided in login and register page.
+- The layout adapts for mobile: instead of showing everything at once, it switches between the thread list and the selected thread. 
+- Users can open a profile by clicking either the profile icon or the username, making navigation more intuitive.
+- Clicking the page title brings users back to the dashboard, providing a quick way to navigate.
